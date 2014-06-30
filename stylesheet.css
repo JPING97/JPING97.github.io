@@ -3,6 +3,12 @@
 *	
 */
 
+html
+{
+	background: url(Referance/Images/Background.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
 h1
 {
 	color: white;
