@@ -23,6 +23,13 @@ h1
 	font-size: 70px;
 }
 
+h2
+{
+	color: white;
+	text-align: center;
+	font-family: "Times New Roman", Times, Serif;
+	font-size: 35px;
+}
 .bBridge
 {
 	text-align: center;
