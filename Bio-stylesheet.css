@@ -1,0 +1,24 @@
+/* 
+*	
+*	
+*/
+
+html
+{
+	background: url(/Reference/Images/Background.jpg) no-repeat center center fixed;
+	background-size: cover;
+	
+}
+
+body
+{
+	margin: 20px;
+}
+
+h1
+{
+	color: white;
+	text-align: center;
+	font-family: "Times New Roman", Times, Serif;
+	font-size: 70px;
+}
