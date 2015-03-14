@@ -17,7 +17,7 @@ body
 
 button
 {
-    font-size: larger;
+    background-size: 200%;
 }
 
 h1
@@ -25,7 +25,7 @@ h1
 	color: red;
 	text-align: center;
 	font-family: "Times New Roman", Times, Serif;
-	font-size: 70px;
+	font-size: 700px;
 }
 
 h3
