@@ -29,10 +29,11 @@ h1
 
 h3
 {
+    font-size: 150%;/* ndoinasodinwwdasd*/
 	color: #7514ff;
 	text-align: center;
 	font-family: "Times New Roman", Times, Serif;
-    font-size: 100%;
+
 }
 .bBridge
 {
@@ -43,6 +44,6 @@ h3
 {
 	text-align: center;
 	color: red;
-    font-size: 100%;
+    font-size: 190%;
     font-family: Serif;
 }
