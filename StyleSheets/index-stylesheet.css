@@ -30,7 +30,7 @@ h1
 
 h3
 {
-	color: red;
+	color: #7514ff;
 	text-align: center;
 	font-family: "Times New Roman", Times, Serif;
 	font-size: 35px;
@@ -40,9 +40,10 @@ h3
 	text-align: center;
 
 }
-.bioLink
+.restartLink
 {
 	text-align: center;
-	color: white;
+	color: red;
 	font-size: 25px;
+    font-family: Serif;
 }
