@@ -17,7 +17,6 @@ body
 
 button
 {
-    background-size: 200%;
 }
 
 h1
@@ -25,7 +24,7 @@ h1
 	color: #7514ff;
 	text-align: center;
 	font-family: "Times New Roman", Times, Serif;
-	font-size: 700px;
+    font-size: 100%;
 }
 
 h3
@@ -33,7 +32,7 @@ h3
 	color: #7514ff;
 	text-align: center;
 	font-family: "Times New Roman", Times, Serif;
-	font-size: 35px;
+    font-size: 100%;
 }
 .bBridge
 {
@@ -44,6 +43,6 @@ h3
 {
 	text-align: center;
 	color: red;
-	font-size: 25px;
+    font-size: 100%;
     font-family: Serif;
 }
