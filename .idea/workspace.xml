@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa3e7368-e7f0-4cca-aa95-af49acd9d7b6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Directories/Deaths/Hippo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Directories/Deaths/Inverse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Directories/Deaths/Shaun.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Directories/Functions/Forest/BigTree.html" afterPath="$PROJECT_DIR$/Directories/Functions/Forest/BigTree.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/FindTheTrail.html" afterPath="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/FindTheTrail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/homeFree/TrigProblem.html" afterPath="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/homeFree/TrigProblem.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Directories/Functions/Forest/cos.html" afterPath="$PROJECT_DIR$/Directories/Functions/Forest/cos.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Directories/Functions/Treasure/toDig.html" afterPath="$PROJECT_DIR$/Directories/Functions/Treasure/toDig.html" />
     </list>
     <ignored path="JPING97.github.io.iws" />
@@ -36,16 +43,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BigTree.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/BigTree.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="510">
-              <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cos.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Directories/Functions/Treasure/cos.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,31 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toDig.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Directories/Functions/Treasure/toDig.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46568626" vertical-offset="0" max-vertical-offset="612">
-              <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cos.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/cos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.875" vertical-offset="3" max-vertical-offset="615">
-              <caret line="24" column="79" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="108" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
-              <caret line="18" column="103" selection-start-line="18" selection-start-column="103" selection-end-line="18" selection-end-column="103" />
+            <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="615">
+              <caret line="24" column="104" selection-start-line="24" selection-start-column="104" selection-end-line="24" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -89,8 +66,8 @@
       <file leaf-file-name="FindTheTrail.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/FindTheTrail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="600">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="585">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -99,7 +76,7 @@
       <file leaf-file-name="problem.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/problem.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="615">
+            <state vertical-scroll-proportion="-12.375" vertical-offset="3" max-vertical-offset="615">
               <caret line="20" column="79" selection-start-line="20" selection-start-column="79" selection-end-line="20" selection-end-column="79" />
               <folding />
             </state>
@@ -116,11 +93,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TrigProblem.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TrigProblem.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/homeFree/TrigProblem.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.375" vertical-offset="15" max-vertical-offset="630">
-              <caret line="24" column="88" selection-start-line="24" selection-start-column="88" selection-end-line="24" selection-end-column="88" />
+            <state vertical-scroll-proportion="0.6862745" vertical-offset="0" max-vertical-offset="630">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BigTree.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/BigTree.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="510">
+              <caret line="18" column="104" selection-start-line="18" selection-start-column="104" selection-end-line="18" selection-end-column="104" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toDig.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Directories/Functions/Treasure/toDig.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="540">
+              <caret line="20" column="104" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -152,16 +149,19 @@
         <option value="$PROJECT_DIR$/StyleSheets/index-stylesheet.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Directories/Functions/Forest/Tree/cos.html" />
-        <option value="$PROJECT_DIR$/Directories/Functions/Forest/cos.html" />
-        <option value="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/FindTheTrail.html" />
         <option value="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/problem.html" />
         <option value="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/homeFree/home.html" />
-        <option value="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/homeFree/TrigProblem.html" />
         <option value="$PROJECT_DIR$/Directories/Functions/cos.html" />
-        <option value="$PROJECT_DIR$/Directories/Functions/Forest/BigTree.html" />
         <option value="$PROJECT_DIR$/Directories/Functions/Treasure/treasure!?.html" />
         <option value="$PROJECT_DIR$/Directories/Functions/Treasure/cos.html" />
+        <option value="$PROJECT_DIR$/Directories/Deaths/Inverse.html" />
+        <option value="$PROJECT_DIR$/Directories/Deaths/Shaun.html" />
+        <option value="$PROJECT_DIR$/Directories/Deaths/Hippo.html" />
+        <option value="$PROJECT_DIR$/Directories/Functions/Forest/cos.html" />
+        <option value="$PROJECT_DIR$/Directories/Functions/Forest/BigTree.html" />
         <option value="$PROJECT_DIR$/Directories/Functions/Treasure/toDig.html" />
+        <option value="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/FindTheTrail.html" />
+        <option value="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/homeFree/TrigProblem.html" />
       </list>
     </option>
   </component>
@@ -333,6 +333,108 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Forest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JPING97.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JPING97.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Directories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Forest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JPING97.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JPING97.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Directories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Forest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homeFree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JPING97.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JPING97.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Directories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Deaths" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -350,8 +452,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/homeFree" />
       <recent name="$PROJECT_DIR$/Directories/Deaths" />
+      <recent name="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/homeFree" />
       <recent name="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/Home Free!" />
       <recent name="$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem" />
       <recent name="$PROJECT_DIR$/Directories/Functions/Forest/Tree" />
@@ -508,14 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Directories/Deaths/Addi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34313726" vertical-offset="0" max-vertical-offset="612">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/win.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="540">
@@ -540,17 +634,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Directories/Deaths/Addi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="495">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directories/Deaths/Inverse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="480">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directories/Deaths/Shaun.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="510">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directories/Deaths/Hippo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26960784" vertical-offset="0" max-vertical-offset="612">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directories/Functions/cos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="540">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directories/Functions/Treasure/cos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/BigTree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="510">
+          <caret line="18" column="104" selection-start-line="18" selection-start-column="104" selection-end-line="18" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directories/Functions/Treasure/toDig.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="540">
+          <caret line="20" column="104" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/cos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="615">
+          <caret line="24" column="104" selection-start-line="24" selection-start-column="104" selection-end-line="24" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/FindTheTrail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="600">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/problem.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="615">
+        <state vertical-scroll-proportion="-12.375" vertical-offset="3" max-vertical-offset="615">
           <caret line="20" column="79" selection-start-line="20" selection-start-column="79" selection-end-line="20" selection-end-column="79" />
           <folding />
         </state>
@@ -566,48 +732,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/Tree/Map/Problem/homeFree/TrigProblem.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.375" vertical-offset="15" max-vertical-offset="630">
-          <caret line="24" column="88" selection-start-line="24" selection-start-column="88" selection-end-line="24" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Directories/Functions/cos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="540">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/cos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.875" vertical-offset="3" max-vertical-offset="615">
-          <caret line="24" column="79" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="108" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Directories/Functions/Forest/BigTree.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="510">
-          <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Directories/Functions/Treasure/cos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="525">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Directories/Functions/Treasure/toDig.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46568626" vertical-offset="0" max-vertical-offset="612">
-          <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
+        <state vertical-scroll-proportion="0.6862745" vertical-offset="0" max-vertical-offset="630">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding />
         </state>
       </provider>
