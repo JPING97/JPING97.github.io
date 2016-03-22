@@ -1,8 +1,6 @@
 # JPING97.github.io
 
-This is a webpage for testing purposes
+This is a webpage for no real purpose
 
-Finish Math Project
-
-Study a bit of Chem
+Right now it's for my Senior English Project
 
